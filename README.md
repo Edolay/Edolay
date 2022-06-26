@@ -19,7 +19,7 @@ I'm passionated about nothing. thx
   <a href="https://awogawog.000webhostapp.com" target="_blank"><img src="https://cdn-2.tstatic.net/pekanbaru/foto/bank/images/link-video-bantahan-kienzy-myln-soal-video-kienzy-32-detik-viral-bukan-aku.jpg" width="440"></a><br>  
   <div align="left">
        <a href="https://github.com/Edolay/" target="_blank"><img src="https://shields.io/badge/Edolay-111111.svg?&style=for-the-badge&logo=github"></a>  
-       <a href="https://www.instagram.com/Edolay/" target="_blank"><img src="https://shields.io/badge/Edolay-111111.svg?&style=for-the-badge&logo=instagram"></a>  
+       <a href="https://wa.me/6283171382342/" target="_blank"><img src="https://shields.io/badge/Edolay-111111.svg?&style=for-the-badge&logo=whatsapp"></a>  
        <a href="https://twitter.com/Edolay/" target="_blank"><img src="https://shields.io/badge/Edolay-111111.svg?&style=for-the-badge&logo=twitter"></a>  
        <a href="https://www.facebook.com/Edolay/" target="_blank"><img src="https://shields.io/badge/Edolay-111111.svg?&style=for-the-badge&logo=facebook"></a>  
   </div>
