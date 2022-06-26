@@ -19,9 +19,8 @@ I'm passionated about nothing. thx
   <div align="left">
        <a href="https://github.com/Edolay/" target="_blank"><img src="https://shields.io/badge/Edolay-111111.svg?&style=for-the-badge&logo=github"></a>  
        <a href="https://wa.me/6283171382342/" target="_blank"><img src="https://shields.io/badge/Edolay-111111.svg?&style=for-the-badge&logo=whatsapp"></a>  
-       <a href="https://twitter.com/Edolay/" target="_blank"><img src="https://shields.io/badge/Edolay-111111.svg?&style=for-the-badge&logo=chrome"></a>  
-       <a href="https://www.facebook.com/Edolay/" target="_blank"><img src="https://shields.io/badge/Edolay-111111.svg?&style=for-the-badge&logo=facebook"></a>  
-  </div>
+       <a href="https://twitter.com/Edolay/" target="_blank"><img src="https://shields.io/badge/Edolay-111111.svg?&style=for-the-badge&logo=youtube"></a>  
+      </div>
 
 
 </details>
