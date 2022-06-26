@@ -1,4 +1,5 @@
-# <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100"> EDOLAY PROFILE  
+# <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100">
+EDOLAY PROFILE  
 
 I'm Edolay
 <br>
