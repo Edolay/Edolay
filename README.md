@@ -4,7 +4,7 @@
   <a href="https://instagram.com/Edolay.co"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Just+Normal+People+From+Indonesia.;Im+18+Years+old.;studying+to+be+a+programmer." alt="Edolay">
 </p>
   
-![My card name](https://cardivo.vercel.app/api?name=Edolay&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://assets.pikiran-rakyat.com/crop/290x16:719x324/x/photo/2022/02/11/3660977432.jpeg)
+![My card name](https://cardivo.vercel.app/api?name=Edolay&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://i.ibb.co/jHvxWHv/cewek-cantik-sexy-suka-colmek-dan-sering-open-vcs.jpg)
 
 ------
 ### Connect with me ☎️
